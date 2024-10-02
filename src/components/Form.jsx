@@ -12,17 +12,17 @@ function Form() {
     let handleInput = (e) => {
         let { name, value } = e.target;
 
-        let ho = [...hobby];
+        let hobbies = [...hobby];
         if (name === 'hobby') {
             if (e.target.checked) {
-                ho.push(value);
+                hobbies.push(value);
             } else {
-                let pos = ho.findIndex((v, i) => value === v);
-                ho.splice(pos, 1);
+                let pos = hobbies.findIndex((v, i) => value === v);
+                hobbies.splice(pos, 1);
             }
-            value = ho;
+            value = hobbies;
         }
-        setHobby(ho);
+        setHobby(hobbies);
         setData({ ...data, [name]: value });
     };
 
