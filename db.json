@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "id": "5628",
+      "username": "mucuge",
+      "email": "kifito@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "female",
+      "hobby": [
+        "Dance",
+        "Writing",
+        "Gaming"
+      ],
+      "address": "Aut deserunt rerum e",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "b69d",
+      "username": "Sacha Beach",
+      "email": "jysuz@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "female",
+      "hobby": [
+        "Dance",
+        "Coding",
+        "Gaming"
+      ],
+      "address": "Nemo itaque velit co",
+      "city": "Gandhinagar"
+    },
+    {
+      "id": "dc73",
+      "username": "Rooney Wade",
+      "email": "xohyzoc@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "male",
+      "address": "Et labore autem dese",
+      "city": "Anand",
+      "hobby": [
+        "Reading",
+        "Writing"
+      ]
+    },
+    {
+      "id": "0f8f",
+      "username": "Ciara Bullock",
+      "email": "viwaxoriwa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "female",
+      "hobby": [
+        "Reading"
+      ],
+      "address": "Eligendi esse vitae ",
+      "city": "Surat"
+    },
+    {
+      "id": "b28a",
+      "username": "Amos Manning",
+      "email": "xifetujy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "male",
+      "hobby": [
+        "Dance",
+        "Writing",
+        "Coding",
+        "Gaming"
+      ],
+      "address": "Omnis at nostrud et ",
+      "city": "Vapi"
+    },
+    {
+      "id": "5260",
+      "username": "Indira Carney",
+      "email": "jicyj@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "gender": "female",
+      "hobby": [
+        "Writing",
+        "Coding",
+        "Gaming"
+      ],
+      "address": "Voluptas ipsum offi",
+      "city": "Anand"
+    }
+  ],
+  "admin": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
